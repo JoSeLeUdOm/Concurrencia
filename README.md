@@ -1,4 +1,4 @@
-Laboratorio de Concurrencia en Java
+# Laboratorio de Concurrencia en Java
 
 Autor
 Jose Luis Leudo Mosquera  
@@ -105,7 +105,7 @@ Cinco hilos procesan tareas simultáneamente y pueden perder recursos sin contro
 **Solución:**  
 Uso de BlockingQueue para gestionar tareas de forma segura, evitando condiciones de carrera y optimizando la espera de los hilos.
 
-## 10. Simulación de Tráfico
+# 10. Simulación de Tráfico
 
 **Problema:**  
 Varios autos intentan cruzar un recurso compartido (cruce) al mismo tiempo.
