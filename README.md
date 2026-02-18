@@ -26,8 +26,10 @@ Para la ejecución de estos ejercicios practicos de concurrencia es necesario, l
 2. 4 gb de ram
 3. Java Oracle para el **IDE Netbeans** (versión 21): https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe (sha256)
 4. Tener instalado un entorno o **IDE** para su ejecución, como:
-   *Visual Studio Code: https://code.visualstudio.com/download
-   *NetBeans: https://netbeans.apache.org/front/main/download/nb28/
+
+       *Visual Studio Code: https://code.visualstudio.com/download
+       *NetBeans: https://netbeans.apache.org/front/main/download/nb28/
+   
 6. Abrir la carpeta con los ejercicios practicos llamada (laboratorio_concurrencia) y ejecutar cada uno de los programas en el **IDE**.
 7. ¡Descubre como funciona la concurrencia!
 
