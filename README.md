@@ -24,7 +24,7 @@ Para la ejecución de estos ejercicios practicos de concurrencia es necesario, l
 
 1. Sistema operativo (Windows, Linux o macOs)
 2. 4 gb de ram
-3. Java Oracle (versión 21), https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe (sha256)
+3. Java Oracle para el **IDE Netbeans** (versión 21): https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe (sha256)
 4. Tener instalado un entorno o **IDE**para su ejecución, como:
    *Visual Studio Code
    *NetBeans
