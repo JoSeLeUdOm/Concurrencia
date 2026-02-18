@@ -1,6 +1,6 @@
 # Laboratorio de Concurrencia en Java
 
-Autor
+Autor:
 Jose Luis Leudo Mosquera  
 Universidad Distrital Francisco José de Caldas  
 Programación Avanzada  
@@ -97,7 +97,7 @@ Cuatro usuarios intentan utilizar una impresora que solo permite dos accesos sim
 Uso de Semaphore con capacidad 2.  
 Cada hilo utiliza acquire() antes de imprimir y release() al finalizar.
 
-# 9️. Cola de Tareas Concurrentes
+# 9. Cola de Tareas Concurrentes
 
 **Problema:**  
 Cinco hilos procesan tareas simultáneamente y pueden perder recursos sin control adecuado.
