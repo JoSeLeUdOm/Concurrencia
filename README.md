@@ -1,4 +1,4 @@
-# Laboratorio de Concurrencia en Java
+## Laboratorio de Concurrencia en Java
 
 Autor:
 Jose Luis Leudo Mosquera  
