@@ -12,14 +12,12 @@ Febrero 2026
 
 - [Descripción](#descripción)
 - [Ejercicios](#ejercicios)
-- [Conceptos Aplicados](#conceptos-aplicados)
-- [Requisitos](#requisitos)
-- [Instalación y Ejecución](#instalación-y-ejecución)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Resultados Esperados](#resultados-esperados)
+- [Aplicación de los conceptos](#aplicacion-de-los-conceptos)
+- [Problemas abordados](#problemas-abordados)
+- [Recursos necesarios para su ejecución](#recursos-necesarios-para-su-ejecucion)
+- [Uso](#uso)
 - [Licencia](#licencia)
 - [Contribuciones](#contribuciones)
-- [Contacto](#contacto)
 
 
 ## Descripción
@@ -52,14 +50,15 @@ Este repositorio contiene metodos de como se implementan 10 ejercicios práctico
 - Comunicación segura entre hilos con **Colas Bloqueantes** (`BlockingQueue`).
 - Uso de **Locks explícitos** (`ReentrantLock`) para un control más fino.
       
-## Problemas Abordados:
+## Problemas abordados:
+
 - **Exclusión Mutua**= synchronized, ReentrantLock.
 - **Deadlock (Interbloqueo)**= Lock, ReentrantLock, tryLock().
 - **Programación Concurrente**= Thread, Runnable.
 - **Semáforos**= Semaphore.
 - **Barreras**= CyclicBarrier.
       
-## Recursos necesario para su ejecución
+## Recursos necesarios para su ejecución
 
 Para la ejecución de estos ejercicios practicos de concurrencia es necesario, lo siguiente: 
 
