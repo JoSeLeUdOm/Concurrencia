@@ -23,15 +23,12 @@ Se aplican mecanismos fundamentales de programación concurrente como:
 Para la ejecución de estos ejercicios practicos de concurrencia es necesario, lo siguiente: 
 
 1. Sistema operativo (Windows, Linux o macOs)
-2. 4 gb de ram
-3. Java Oracle para el **IDE Netbeans** (versión 21): https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe (sha256)
-4. Tener instalado un entorno o **IDE** para su ejecución, como:
-
-       1. Visual Studio Code: https://code.visualstudio.com/download
-       2. NetBeans: https://netbeans.apache.org/front/main/download/nb28/
-   
-6. Abrir la carpeta con los ejercicios practicos llamada (laboratorio_concurrencia) y ejecutar cada uno de los programas en el **IDE**.
-7. ¡Descubre como funciona la concurrencia!
+2. Java Oracle para el **IDE Netbeans** (versión 21): https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe (sha256)
+3. Tener instalado un entorno o **IDE** para su ejecución, como:
+   3.1. **Visual Studio Code:** https://code.visualstudio.com/download
+   3.2. **NetBeans:** https://netbeans.apache.org/front/main/download/nb28/
+4. Abrir la carpeta con los ejercicios practicos llamada (laboratorio_concurrencia) y ejecutar cada uno de los programas en el IDE.
+5. ¡Descubre como funciona la concurrencia!
 
 ## Uso
 Estos programás son para entender como funciona 
