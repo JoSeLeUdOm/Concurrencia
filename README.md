@@ -12,9 +12,9 @@ Febrero 2026
 
 - [Descripción](#descripción)
 - [Ejercicios](#ejercicios)
-- [Aplicación de los conceptos](#aplicacion-de-los-conceptos)
+- [Aplicación de los conceptos](#aplicación-de-los-conceptos)
 - [Problemas abordados](#problemas-abordados)
-- [Recursos necesarios para su ejecución](#recursos-necesarios-para-su-ejecucion)
+- [Recursos necesarios para su ejecución](#recursos-necesarios-para-su-ejecución)
 - [Uso](#uso)
 - [Licencia](#licencia)
 - [Contribuciones](#contribuciones)
