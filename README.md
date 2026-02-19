@@ -82,6 +82,9 @@ Para la ejecución de estos ejercicios practicos de concurrencia es necesario, l
 
 Estos programas están creados con fines educativos y demostrativos para comprender los principios fundamentales de la concurrencia en Java. Cada ejercicio aborda un problema específico de sincronización y muestra cómo diferentes mecanismos (synchronized, semáforos, barreras, etc.) pueden aplicarse para resolverlo.
 
+## Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 ## Contribuciones
 
 Este es un proyecto de carácter académico, por lo que no se esperan contribuciones externas. Sin embargo, si encuentras algún error o tienes una sugerencia, no dudes en preguntarme para discutirlo.
